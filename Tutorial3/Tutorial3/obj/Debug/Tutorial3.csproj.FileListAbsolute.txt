@@ -1,0 +1,10 @@
+D:\reposatories\tutorial3\Tutorial3\Tutorial3\bin\Debug\Tutorial3.exe.config
+D:\reposatories\tutorial3\Tutorial3\Tutorial3\bin\Debug\Tutorial3.exe
+D:\reposatories\tutorial3\Tutorial3\Tutorial3\bin\Debug\Tutorial3.pdb
+D:\reposatories\tutorial3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.csprojAssemblyReference.cache
+D:\reposatories\tutorial3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.Form1.resources
+D:\reposatories\tutorial3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.Properties.Resources.resources
+D:\reposatories\tutorial3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.csproj.GenerateResource.cache
+D:\reposatories\tutorial3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.csproj.CoreCompileInputs.cache
+D:\reposatories\tutorial3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.exe
+D:\reposatories\tutorial3\Tutorial3\Tutorial3\obj\Debug\Tutorial3.pdb
